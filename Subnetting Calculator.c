@@ -6,7 +6,9 @@ About: This program takes the ip address and its CIDR value and give the informa
 
 #include<stdio.h>
 #include<conio.h>
-main()
+#include<stdlib.h
+#include<math.h>
+int main()
 {
 	int ip0,ip1,ip2,ip3,cidr,rem,NoOfNetwork,ValidHost,BlockSize,i=0;
 	printf("Enter IP Address:\n");
