@@ -1,3 +1,10 @@
+/*Program to store data of marks of student and print it.
+Author:Anwesh Budhathoki
+Date:2019/03/12
+About: This program takes the name, roll no and marks of 5 subjects. Then it arranges the roll no in ascending order and prints all the data.*/
+
+
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
